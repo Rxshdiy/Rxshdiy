@@ -1,6 +1,6 @@
+![I am Web Developer](https://github.com/Rxshdiy/Rxshdiy/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png)
 ### Hi there 👋, Rushdiy Isaacs
 #### I am Web Developer
-![I am Web Developer](https://github.com/Rxshdiy/Rxshdiy/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png)
 
 I'm Rushdiy, from Cape Town, South Africa. I'm a passionate web developer with a knack for crafting beautiful and functional websites. My expertise lies in HTML, CSS, and JavaScript, and I thrive on turning ideas into seamless online experiences.
 
